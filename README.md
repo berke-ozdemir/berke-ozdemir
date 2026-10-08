@@ -1,6 +1,6 @@
 # Berke Özdemir
 
-I build web applications, games, and tools for problems I run into. My work spans frontend development, interactive systems, personal productivity, and tools for working with AI agents.
+I build games, products, and tools for problems I run into.
 
 ## Projects
 
@@ -25,11 +25,11 @@ I use AI-assisted development across several projects. The overviews distinguish
 
 - **[Collabjam prejam trader](https://github.com/berke-ozdemir/collabjam-prejam-trader):** a collaborative Godot trading game with physical goods, scales, and NPC interactions.
 - **[Bike Bullet Delivery](https://github.com/morganholly/bike-bullet-delivery/pull/3):** merged game-jam mission work.
-- **[Earlier projects and university collaboration](https://github.com/berke-ozdemir/berke-ozdemir/blob/main/projects/earlier-work.md):** frontend examples, browser experiments, coursework, and merged contributions across TypeScript, Python, Java, C++, Scheme, and Prolog.
+- **[Earlier projects and university collaboration](https://github.com/berke-ozdemir/berke-ozdemir/blob/main/projects/earlier-work.md):** experiments, coursework, and merged contributions across TypeScript, Python, Java, C++, Scheme, and Prolog.
 
 ## Professional work
 
-I have worked on Hiwell's therapy platform and Babonbo's baby-gear rental marketplace, including frontend flows and integrations.
+I have worked on Hiwell's therapy platform and Babonbo's baby-gear rental marketplace.
 
 ## Elsewhere
 
